@@ -1,0 +1,20 @@
+body{
+	color: red;
+}
+
+html{
+	font-family: Helvetica;
+	font-size: 10px;
+}
+
+.heading{
+	text-transform: uppercase;
+}
+
+.footer{
+	background: red;
+}
+
+h1{
+	text-decoration: underline;
+}
